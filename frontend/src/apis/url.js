@@ -1,5 +1,5 @@
 // export const BASE_URL = "http://ripcore.gg:5000/api";
-export const BASE_URL = "http://localhost:5001/api";
+export const BASE_URL = "http://93.99.104.177:5001/api";
 export const USER_API_URL = {
     TEST: "/user/test",
     REGISTER: "/user/auth/register",
